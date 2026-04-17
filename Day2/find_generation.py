@@ -1,0 +1,6 @@
+birth_year: int = int(input())
+if birth_year >= 1946 and birth_year <= 1964: print("Baby Boomers")
+elif birth_year >= 1965 and birth_year <= 1980: print("Generation X")
+elif birth_year >= 1981 and birth_year <= 1996: print("Millennials")
+elif birth_year >= 1997 and birth_year <= 2012: print("Generation Z")
+elif birth_year >= 2013 and birth_year <= 2025: print("Generation Alpha")
