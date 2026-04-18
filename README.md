@@ -1,2 +1,2 @@
 # GoDigit_ML
-Fellowship Projects ML
+Day2 Pratice Problems
