@@ -1,0 +1,5 @@
+cities = list(map(str, input("Enter the names of the cities: ").split()))
+print(cities)
+cities_str = ", ".join(cities)
+upper_cities = cities_str.upper()
+print(upper_cities)
