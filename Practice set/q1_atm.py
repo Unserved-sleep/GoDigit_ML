@@ -3,8 +3,9 @@ class Atm:
         self.balance = initial_balance
 
     def withdraw(self, amount):
-        status = lambda x: "Success" if amount%100 == 0 and self.balance >= amount else "Failed"
-        return status(amount)
+        status = lambda x: "Success"  if amount%100 == 0 and self.balance >= amount else "Failed"
+        if status(amount) == "Success":
+            self.balance -= amount
 
 init_balance: int = int(input())
 n = int(input())

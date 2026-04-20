@@ -1,6 +1,5 @@
 from Demos.SystemParametersInfo import x
 
-
 class ElectricityBilling:
     def __init__(self, units):
         self.units = units

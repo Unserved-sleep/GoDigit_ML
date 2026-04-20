@@ -5,13 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d175b94-6426-4a1a-a96b-0b9d54140bf1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Practice set/q1_atm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice set/q2_electricity_billing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice set/q10_exam_result.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice set/q4_traffic_signal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice set/q5_salary_deduction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice set/q6-prime_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice set/q7-order_discount.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice set/q8_binary_decimal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice set/q9_battery_drain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice set/q1_atm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice set/q1_atm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice set/q2_electricity_billing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice set/q2_electricity_billing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="14" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -23,13 +35,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Unserved-sleep/GoDigit_ML.git",
+    "accountId": "38089b48-f616-423b-bdc0-fc15a23259b1"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.q10_exam_result.executor": "Run",
     "Python.q1_atm.executor": "Run",
+    "Python.q3_password.executor": "Run",
+    "Python.q4_traffic_signal.executor": "Run",
+    "Python.q5_salary_deduction.executor": "Run",
+    "Python.q6-prime_range.executor": "Run",
+    "Python.q7-order_discount.executor": "Run",
+    "Python.q8_binary_decimal.executor": "Run",
+    "Python.q9_battery_drain.executor": "Run",
     "git-widget-placeholder": "Pratice-Set"
   }
 }]]></component>
