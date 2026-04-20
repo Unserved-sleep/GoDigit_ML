@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7689f7a-d56a-497e-beca-2fd0aaf02640" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day10/list_tuple_comp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/unique_elements.py" afterDir="false" />
-    </list>
+    <list default="true" id="f7689f7a-d56a-497e-beca-2fd0aaf02640" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +59,7 @@
     "Python.Recursive Function.executor": "Run",
     "Python.bill_generation.executor": "Run",
     "Python.day1_pp.executor": "Run",
+    "Python.etra_operations.executor": "Run",
     "Python.find_generation.executor": "Run",
     "Python.function_def.executor": "Run",
     "Python.hard_coding.executor": "Run",
