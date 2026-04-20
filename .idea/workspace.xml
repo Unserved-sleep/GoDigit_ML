@@ -51,7 +51,9 @@
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;Python.Car_loan_payment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day8.executor&quot;: &quot;Run&quot;,
     &quot;Python.EMI_claculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GoDigit_ML.executor&quot;: &quot;Run&quot;,
     &quot;Python.Greet_function.executor&quot;: &quot;Run&quot;,
     &quot;Python.Recursive Function.executor&quot;: &quot;Run&quot;,
     &quot;Python.bill_generation.executor&quot;: &quot;Run&quot;,
@@ -86,8 +88,8 @@
       <recent name="E:\GoDigit_ML\Day2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Car_loan_payment">
-    <configuration name="Car_loan_payment" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.regexx2">
+    <configuration name="Day8" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,13 +98,13 @@
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="SDK_NAME" value="Python 3.9 (PythonProject11)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day8" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day5/Car_loan_payment.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day8/" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -538,6 +540,23 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.regexx2" />
+      <item itemvalue="Python.EMI_claculator" />
+      <item itemvalue="Python.find_generation" />
+      <item itemvalue="Python.Greet_function" />
+      <item itemvalue="Python.lambda_functions" />
+      <item itemvalue="Python.Recursive Function" />
+      <item itemvalue="Python.regex" />
+      <item itemvalue="Python.Day8" />
+      <item itemvalue="Python.remove_element" />
+      <item itemvalue="Python.report_card" />
+      <item itemvalue="Python.simple_class" />
+      <item itemvalue="Python.slicing" />
+      <item itemvalue="Python.string_join" />
+      <item itemvalue="Python.time_conversion" />
+      <item itemvalue="Python.transpose" />
+    </list>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
