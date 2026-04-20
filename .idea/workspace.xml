@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d175b94-6426-4a1a-a96b-0b9d54140bf1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Practice set/q10_exam_result.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice set/q4_traffic_signal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice set/q5_salary_deduction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice set/q6-prime_range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice set/q7-order_discount.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice set/q8_binary_decimal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice set/q9_battery_drain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice set/15_door_lock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice set/q11_number_compress.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice set/q12_vowel_frequency.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice set/q13_ticket_fair.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice set/q14_number_pattern.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice set/q1_atm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice set/q1_atm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice set/q2_electricity_billing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice set/q2_electricity_billing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="14" />
+    <option name="cachedIndexableFilesCount" value="22" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -47,7 +43,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.15_door_lock.executor": "Run",
     "Python.q10_exam_result.executor": "Run",
+    "Python.q11_number_compress.executor": "Run",
+    "Python.q12_vowel_frequency.executor": "Run",
+    "Python.q13_ticket_fair.executor": "Run",
+    "Python.q14_number_pattern.executor": "Run",
     "Python.q1_atm.executor": "Run",
     "Python.q3_password.executor": "Run",
     "Python.q4_traffic_signal.executor": "Run",
@@ -56,7 +57,7 @@
     "Python.q7-order_discount.executor": "Run",
     "Python.q8_binary_decimal.executor": "Run",
     "Python.q9_battery_drain.executor": "Run",
-    "git-widget-placeholder": "Pratice-Set"
+    "git-widget-placeholder": "Pratice-set"
   }
 }]]></component>
   <component name="RecentsManager">
