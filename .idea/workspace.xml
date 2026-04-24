@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d175b94-6426-4a1a-a96b-0b9d54140bf1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Practice set/15_door_lock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice set/q11_number_compress.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice set/q12_vowel_frequency.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice set/q13_ticket_fair.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice set/q14_number_pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem statement/dice_roller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem statement/encorder.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,14 +26,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Problem_of_the_day/Day1" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Unserved-sleep/GoDigit_ML.git",
-    "accountId": "38089b48-f616-423b-bdc0-fc15a23259b1"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Unserved-sleep/GoDigit_ML.git&quot;,
+    &quot;accountId&quot;: &quot;38089b48-f616-423b-bdc0-fc15a23259b1&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -44,6 +46,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.15_door_lock.executor": "Run",
+    "Python.dice_roller.executor": "Run",
+    "Python.encorder.executor": "Run",
     "Python.q10_exam_result.executor": "Run",
     "Python.q11_number_compress.executor": "Run",
     "Python.q12_vowel_frequency.executor": "Run",
@@ -62,6 +66,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\GoDigit_ML\problem statement" />
       <recent name="E:\GoDigit_ML\Practice set" />
     </key>
   </component>
