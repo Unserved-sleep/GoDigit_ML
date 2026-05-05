@@ -1,0 +1,15 @@
+Index: Data Structures/user_dict.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>from collections import UserDict\r\n\r\n'''\r\nmy_dict={'red':'5','white':2,'black':1}\r\nuser_dict = UserDict(my_dict)\r\nprint(user_dict.data)\r\n\r\n\r\nclass user_dict(UserDict):\r\n    def pop(self, default=None):\r\n        raise RuntimeError('no pops')\r\n\r\ndata = user_dict({'red':'5','white':2,'black':1})\r\ndata.pop('red')\r\n'''\r\n\r\n\r\nclass user_dict(UserDict):\r\n    def replace(self, key):\r\n        self[key] = '0'\r\n\r\nfile = user_dict({'red': '5', 'white': 2, 'black': 1, 'blue': 4567890})\r\n\r\nfor i in ['blue', 'yellow']:\r\n    file.replace(i)\r\n\r\nprint(file)\r\n\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Data Structures/user_dict.py b/Data Structures/user_dict.py
+--- a/Data Structures/user_dict.py	(revision b3902ea8b5c210c8d9d6e9dca2d4be48f5cc1c66)
++++ b/Data Structures/user_dict.py	(date 1777359448694)
+@@ -1,3 +1,4 @@
++
+ from collections import UserDict
+ 
+ '''
