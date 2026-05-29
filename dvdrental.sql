@@ -317,3 +317,158 @@ SELECT
     (SELECT min_length FROM film_stats) AS min_film_length,
     (SELECT total_customers FROM customer_stats) AS total_customers,
     (SELECT total_payments FROM customer_stats) AS total_payments;
+
+SELECT
+    city
+FROM
+    city
+WHERE
+    country_id = (
+        SELECT
+            country_id
+        FROM
+            country
+        WHERE
+            country = 'United States'
+    )
+ORDER BY
+    city;
+
+SELECT
+    film_id,
+    title
+FROM
+    film
+WHERE
+    film_id IN (
+        SELECT
+            film_id
+        FROM
+            film_category
+                INNER JOIN category USING(category_id)
+        WHERE
+            name = 'Action'
+    )
+ORDER BY
+    film_id;
+
+SELECT film_id, title, length, rating
+FROM film f
+WHERE length > (
+    SELECT AVG(length)
+    FROM film
+    WHERE rating = f.rating
+);
+
+-- Any and all
+-- SELECT
+--   *
+-- FROM
+--   employees
+-- WHERE
+--   salary < ANY (
+--     SELECT
+--       salary
+--     FROM
+--       managers
+--   );
+
+-- SELECT
+--   *
+-- FROM
+--   employees
+-- WHERE
+--   salary > ALL(
+--     select
+--       salary
+--     from
+--       managers
+--   );
+
+
+SELECT
+    first_name,
+    last_name
+FROM
+    customer c
+WHERE
+    EXISTS (
+        SELECT
+            1
+        FROM
+            payment p
+        WHERE
+            p.customer_id = c.customer_id
+          AND amount > 11
+    )
+ORDER BY
+    first_name,
+    last_name;
+
+SELECT
+    first_name,
+    last_name
+FROM
+    customer
+WHERE
+    EXISTS(
+        SELECT NULL
+    )
+ORDER BY
+    first_name,
+    last_name;
+
+
+SELECT
+    film_id,
+    title,
+    rental_rate
+INTO TABLE film_r
+FROM
+    film
+WHERE
+    rating = 'R'
+  AND rental_duration = 5
+ORDER BY
+    title;
+
+SELECT
+    film_id,
+    title,
+    length
+INTO TEMP TABLE short_film
+FROM
+    film
+WHERE
+    length < 60
+ORDER BY
+    title;
+
+CREATE TABLE action_film
+AS
+SELECT
+    film_id,
+    title,
+    release_year,
+    length,
+    rating
+FROM
+    film
+        INNER JOIN film_category USING (film_id)
+WHERE
+    category_id = 1;
+
+
+EXPLAIN ANALYZE
+SELECT
+    f.film_id,
+    title,
+    name category_name
+FROM
+    film f
+        INNER JOIN film_category fc
+                   ON fc.film_id = f.film_id
+        INNER JOIN category c
+                   ON c.category_id = fc.category_id
+ORDER BY
+    title;

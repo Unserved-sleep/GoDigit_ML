@@ -380,3 +380,147 @@ WHEN NOT MATCHED AND u.status = 'active' THEN
         p.last_updated;
 
 drop table products, product_updates
+
+-- Transactions
+-- BEGIN TRANSACTION;
+-- BEGIN WORK;
+-- BEGIN;
+
+-- COMMIT WORK;
+-- COMMIT TRANSACTION;
+-- COMMIT;
+
+-- ROLLBACK;
+-- ROLLBACK TRANSACTION;
+-- ROLLBACK WORK;
+
+-- SAVEPOINT savepoint_name;
+-- ROLLBACK TO SAVEPOINT savepoint_name;
+
+-- importing csv file
+-- COPY sample_table_name
+-- FROM 'C:\sampledb\sample_data.csv'
+-- DELIMITER ','    needed for csv
+-- CSV HEADER;
+
+-- exporting csv file
+-- COPY persons TO 'C:\temp\persons_db.csv' DELIMITER ',' CSV HEADER;
+
+-- COPY persons(first_name,last_name,email)
+-- TO 'C:\temp\persons_partial_db.csv' DELIMITER ',' CSV HEADER;
+
+-- \copy (SELECT * FROM persons) to 'C:\temp\persons_client.csv' with csv    ---from psl client
+
+
+
+CREATE TABLE accounts (  --if not exists
+                          user_id SERIAL PRIMARY KEY,
+                          username VARCHAR (50) UNIQUE NOT NULL,
+                          password VARCHAR (50) NOT NULL,
+                          email VARCHAR (255) UNIQUE NOT NULL,
+                          created_at TIMESTAMP NOT NULL,
+                          last_login TIMESTAMP
+);
+
+-- sequence
+CREATE TABLE order_details(
+                              order_id SERIAL,
+                              item_id INT NOT NULL,
+                              item_text VARCHAR NOT NULL,
+                              price DEC(10,2) NOT NULL,
+                              PRIMARY KEY(order_id, item_id)
+);
+
+CREATE SEQUENCE order_item_id
+    START 10
+    INCREMENT 10
+    MINVALUE 10
+    OWNED BY order_details.item_id;
+
+INSERT INTO
+    order_details(order_id, item_id, item_text, price)
+VALUES
+    (100, nextval('order_item_id'),'DVD Player',100),
+    (100, nextval('order_item_id'),'Android TV',550),
+    (100, nextval('order_item_id'),'Speaker',250);
+
+select * from order_details;
+
+
+CREATE TABLE contacts(
+                         id SERIAL PRIMARY KEY,
+                         first_name VARCHAR(50) NOT NULL,
+                         last_name VARCHAR(50) NOT NULL,
+                         full_name VARCHAR(101) GENERATED ALWAYS AS (first_name || ' ' || last_name) STORED,
+                         email VARCHAR(300) UNIQUE
+);
+
+-- Alter table add, drop, rename column name
+-- ALTER TABLE alter column target set default, add check, add constraints
+
+-- ALTER TABLE assets
+-- ALTER COLUMN asset_no TYPE INT;
+
+-- type casting
+-- ALTER TABLE assets
+-- ALTER COLUMN asset_no TYPE INT
+-- USING asset_no::integer;
+
+-- NOTICE:  truncate cascades to table "order_items"
+-- TRUNCATE TABLE
+
+-- CREATE TABLE new_table AS
+-- TABLE existing_table
+-- WITH NO DATA;
+
+
+DROP TABLE IF EXISTS customers;
+DROP TABLE IF EXISTS contacts;
+
+CREATE TABLE customers(
+                          customer_id INT GENERATED ALWAYS AS IDENTITY,
+                          customer_name VARCHAR(255) NOT NULL,
+                          PRIMARY KEY(customer_id)
+);
+
+CREATE TABLE contacts(
+                         contact_id INT GENERATED ALWAYS AS IDENTITY,
+                         customer_id INT,
+                         contact_name VARCHAR(255) NOT NULL,
+                         phone VARCHAR(15),
+                         email VARCHAR(100),
+                         PRIMARY KEY(contact_id),
+                         CONSTRAINT fk_customer
+                             FOREIGN KEY(customer_id)
+                                 REFERENCES customers(customer_id)
+);
+
+-- CONSTRAINT fk_customer
+--       FOREIGN KEY(customer_id)
+-- 	  REFERENCES customers(customer_id)
+-- 	  ON DELETE SET NULL /  ON DELETE CASCADE / ON DELETE RESTRICT / ON DELETE NO ACTION
+
+
+SELECT
+    title,
+    length,
+    CASE WHEN length > 0
+        AND length <= 50 THEN 'Short' WHEN length > 50
+        AND length <= 120 THEN 'Medium' WHEN length > 120 THEN 'Long' END duration
+FROM
+    film
+ORDER BY
+    title;
+
+
+SELECT
+    id,
+    title,
+    COALESCE (
+            NULLIF (excerpt, ''),
+            LEFT (body, 40)
+    )
+FROM
+    posts;
+
+
