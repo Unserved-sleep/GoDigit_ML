@@ -1,0 +1,23 @@
+2026-06-05 12:57:57,056 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-06-05 12:57:57,058 - __main__ - INFO - Starting main
+2026-06-05 12:57:57,059 - root - INFO - Incremented: 1
+2026-06-05 12:57:57,059 - root - INFO - Decremented: 0
+2026-06-05 12:57:57,059 - root - INFO - Incremented: 1
+2026-06-05 12:57:57,059 - root - INFO - Decremented: 0
+2026-06-05 12:57:57,059 - root - INFO - Incremented: 1
+2026-06-05 12:57:57,059 - root - INFO - Decremented: 0
+2026-06-05 12:57:57,059 - root - INFO - Incremented: 1
+2026-06-05 12:57:57,059 - root - INFO - Decremented: 0
+2026-06-05 12:57:57,059 - root - INFO - Incremented: 1
+2026-06-05 12:57:57,059 - root - INFO - Decremented: 0
+2026-06-05 12:57:57,059 - root - INFO - Incremented: 1
+2026-06-05 12:57:57,059 - root - INFO - Decremented: 0
+2026-06-05 12:57:57,059 - root - INFO - Incremented: 1
+2026-06-05 12:57:57,059 - root - INFO - Decremented: 0
+2026-06-05 12:57:57,059 - root - INFO - Incremented: 1
+2026-06-05 12:57:57,059 - root - INFO - Decremented: 0
+2026-06-05 12:57:57,059 - root - INFO - Incremented: 1
+2026-06-05 12:57:57,059 - root - INFO - Decremented: 0
+2026-06-05 12:57:57,059 - root - INFO - Incremented: 1
+2026-06-05 12:57:57,059 - root - INFO - Decremented: 0
+2026-06-05 12:57:57,059 - root - INFO - Finished main
