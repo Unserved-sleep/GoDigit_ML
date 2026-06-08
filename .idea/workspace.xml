@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6548369f-52b2-4054-b970-a915652fdf8f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Unserved-sleep&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Unserved-sleep/GoDigit_ML.git&quot;,
+    &quot;accountId&quot;: &quot;38089b48-f616-423b-bdc0-fc15a23259b1&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/numpy_pratice.ipynb" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000049972907465" />
+      <entry key="S2" value="1.1873206854006457" />
+      <entry key="S5" value="3.4274294892889205" />
+      <entry key="S10" value="7.391488979436576" />
+      <entry key="S30" value="13.67658254058046" />
+      <entry key="S60" value="17.373525872946907" />
+      <entry key="M2" value="27.860743171708606" />
+      <entry key="M5" value="55.77301129830295" />
+      <entry key="M10" value="76.30450306804164" />
+      <entry key="M15" value="85.37627340191828" />
+      <entry key="M30" value="95.8657259089658" />
+      <entry key="H1" value="101.71168992294733" />
+      <entry key="H2" value="104.79849519496534" />
+      <entry key="H4" value="106.43922744900497" />
+      <entry key="D1" value="160.10241140443765" />
+      <entry key="W1" value="293.38262380551134" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.2888196613999107E-194" />
+      <entry key="S2" value="3.3693648290883085E-49" />
+      <entry key="S5" value="4.083374527469072E-20" />
+      <entry key="S10" value="2.0207361350431374E-10" />
+      <entry key="S30" value="5.868176968759448E-4" />
+      <entry key="S60" value="0.024224320359422763" />
+      <entry key="M2" value="0.1556416408273273" />
+      <entry key="M5" value="0.47517142971845444" />
+      <entry key="M10" value="0.689326794574573" />
+      <entry key="M15" value="0.7803392288988884" />
+      <entry key="M30" value="0.8833927726184259" />
+      <entry key="H1" value="0.9520383817774575" />
+      <entry key="H2" value="1.2396012561838214" />
+      <entry key="H4" value="2.275132635471198" />
+      <entry key="D1" value="22.306939798985272" />
+      <entry key="W1" value="61.68330525713501" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.3660214239864063" />
+      <entry key="MS500" value="0.8179069825952447" />
+      <entry key="S2" value="1.1375139173646114" />
+      <entry key="S5" value="3.402580914087787" />
+      <entry key="S10" value="7.37441987426128" />
+      <entry key="S30" value="13.668859718854433" />
+      <entry key="S60" value="17.392081705378676" />
+      <entry key="M2" value="28.010170935749862" />
+      <entry key="M5" value="56.24210043968455" />
+      <entry key="M10" value="76.9895014101119" />
+      <entry key="M15" value="86.15335235527922" />
+      <entry key="M30" value="96.74727335964074" />
+      <entry key="H1" value="102.66274139733622" />
+      <entry key="H2" value="106.03753853092287" />
+      <entry key="H4" value="108.7139781733376" />
+      <entry key="D1" value="182.4085487381856" />
+      <entry key="W1" value="355.0655806402168" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3DTT6mKaHYmDgtBSimJjl0LjVJx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests in pytest_start.py.executor": "Run",
+    "Python tests.Python tests in test_exceptions.py.executor": "Run",
+    "Python tests.Python tests in test_fixtures.py.executor": "Run",
+    "Python tests.Python tests in test_parameterize.py.executor": "Run",
+    "Python.async.executor": "Run",
+    "Python.async_2.executor": "Run",
+    "Python.async_logging.executor": "Run",
+    "Python.concurr1.executor": "Debug",
+    "Python.concurr2.executor": "Run",
+    "Python.concurrent.executor": "Run",
+    "Python.thread.executor": "Run",
+    "Python.thread1.executor": "Run",
+    "Python.thread2.executor": "Run",
+    "Python.thread_2w.executor": "Run",
+    "Python.thread_locks.executor": "Debug",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "fast__api",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\GoDigit_ML\threads" />
+      <recent name="E:\GoDigit_ML\concurr_programming" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6548369f-52b2-4054-b970-a915652fdf8f" name="Changes" comment="" />
+      <created>1778304891311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778304891311</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
