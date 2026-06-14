@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6548369f-52b2-4054-b970-a915652fdf8f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/FirstTestCase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alerts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application_cmd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkboxes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional_cmd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customizedLocators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/date_picker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/double_click.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dropdowns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explicit_wait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hover.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/links.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loactors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navigational_cmd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notifications.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/right_click.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/waits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_tables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xpath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xpath_axes.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Unserved-sleep&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Unserved-sleep/GoDigit_ML.git&quot;,
+    &quot;accountId&quot;: &quot;38089b48-f616-423b-bdc0-fc15a23259b1&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/numpy_pratice.ipynb" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0002653161285464" />
+      <entry key="MS500" value="1.192642777089817" />
+      <entry key="S2" value="1.663629943992889" />
+      <entry key="S5" value="1.9483205420549519" />
+      <entry key="S10" value="2.372086629045006" />
+      <entry key="S30" value="3.719333890880422" />
+      <entry key="S60" value="5.459768972559106" />
+      <entry key="M2" value="7.461774280019072" />
+      <entry key="M5" value="9.941983840375347" />
+      <entry key="M10" value="12.70468209258759" />
+      <entry key="M15" value="15.290647877410859" />
+      <entry key="M30" value="21.18451003799588" />
+      <entry key="H1" value="27.375936671111525" />
+      <entry key="H2" value="32.943546218400925" />
+      <entry key="H4" value="45.57535736131781" />
+      <entry key="D1" value="265.67674329203305" />
+      <entry key="W1" value="616.8668635113802" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="5.588360653933796E-307" />
+      <entry key="S5" value="3.154378256979705E-123" />
+      <entry key="S10" value="5.616385187092941E-62" />
+      <entry key="S30" value="3.8295901292472966E-21" />
+      <entry key="S60" value="6.188368249223557E-11" />
+      <entry key="M2" value="7.86710686803992E-6" />
+      <entry key="M5" value="0.009273421365143286" />
+      <entry key="M10" value="0.10904825868930534" />
+      <entry key="M15" value="0.26600950552331765" />
+      <entry key="M30" value="0.696271117034097" />
+      <entry key="H1" value="1.165300423875699" />
+      <entry key="H2" value="1.5535786802513434" />
+      <entry key="H4" value="2.7065638952086957" />
+      <entry key="D1" value="34.036101262953345" />
+      <entry key="W1" value="101.56717557117055" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9397702979151324" />
+      <entry key="MS500" value="1.1775914684957751" />
+      <entry key="S2" value="1.6582210392620482" />
+      <entry key="S5" value="1.9458087550782417" />
+      <entry key="S10" value="2.3706210234826575" />
+      <entry key="S30" value="3.7185841990596686" />
+      <entry key="S60" value="5.459186560702866" />
+      <entry key="M2" value="7.461364046395915" />
+      <entry key="M5" value="9.950844754678489" />
+      <entry key="M10" value="12.812579552702699" />
+      <entry key="M15" value="15.554934721342322" />
+      <entry key="M30" value="21.87851010949007" />
+      <entry key="H1" value="28.539207346780348" />
+      <entry key="H2" value="34.49571521968971" />
+      <entry key="H4" value="48.28095023628468" />
+      <entry key="D1" value="299.71166202134225" />
+      <entry key="W1" value="718.433498974779" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3DTT6mKaHYmDgtBSimJjl0LjVJx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests in pytest_start.py.executor": "Run",
+    "Python tests.Python tests in test_exceptions.py.executor": "Run",
+    "Python tests.Python tests in test_fixtures.py.executor": "Run",
+    "Python tests.Python tests in test_parameterize.py.executor": "Run",
+    "Python.FirstTestCase.executor": "Run",
+    "Python.action_chains.executor": "Run",
+    "Python.alerts.executor": "Run",
+    "Python.application_cmd.executor": "Run",
+    "Python.async.executor": "Run",
+    "Python.async_2.executor": "Run",
+    "Python.async_logging.executor": "Run",
+    "Python.checkboxes.executor": "Run",
+    "Python.concurr1.executor": "Debug",
+    "Python.concurr2.executor": "Run",
+    "Python.concurrent.executor": "Run",
+    "Python.conditional_cmd.executor": "Run",
+    "Python.customizedLocators.executor": "Run",
+    "Python.date_picker.executor": "Run",
+    "Python.double_click.executor": "Run",
+    "Python.dropdowns.executor": "Run",
+    "Python.explicit_wait.executor": "Run",
+    "Python.links.executor": "Run",
+    "Python.loactors.executor": "Run",
+    "Python.navigational_cmd.executor": "Run",
+    "Python.right_click.executor": "Run",
+    "Python.thread.executor": "Run",
+    "Python.thread1.executor": "Run",
+    "Python.thread2.executor": "Run",
+    "Python.thread_2w.executor": "Run",
+    "Python.thread_locks.executor": "Debug",
+    "Python.waits.executor": "Run",
+    "Python.xpath.executor": "Run",
+    "Python.xpath_axes.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "selenium",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\GoDigit_ML\threads" />
+      <recent name="E:\GoDigit_ML\concurr_programming" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6548369f-52b2-4054-b970-a915652fdf8f" name="Changes" comment="" />
+      <created>1778304891311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778304891311</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
