@@ -5,27 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6548369f-52b2-4054-b970-a915652fdf8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/FirstTestCase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alerts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application_cmd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkboxes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conditional_cmd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customizedLocators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/date_picker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/double_click.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dropdowns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/explicit_wait.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frames.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hover.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/links.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loactors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/navigational_cmd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/right_click.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/waits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_tables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xpath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xpath_axes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome_download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdf_download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard_action.py" beforeDir="false" afterPath="$PROJECT_DIR$/keyboard_action.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,61 +48,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0002653161285464" />
-      <entry key="MS500" value="1.192642777089817" />
-      <entry key="S2" value="1.663629943992889" />
-      <entry key="S5" value="1.9483205420549519" />
-      <entry key="S10" value="2.372086629045006" />
-      <entry key="S30" value="3.719333890880422" />
-      <entry key="S60" value="5.459768972559106" />
-      <entry key="M2" value="7.461774280019072" />
-      <entry key="M5" value="9.941983840375347" />
-      <entry key="M10" value="12.70468209258759" />
-      <entry key="M15" value="15.290647877410859" />
-      <entry key="M30" value="21.18451003799588" />
-      <entry key="H1" value="27.375936671111525" />
-      <entry key="H2" value="32.943546218400925" />
-      <entry key="H4" value="45.57535736131781" />
-      <entry key="D1" value="265.67674329203305" />
-      <entry key="W1" value="616.8668635113802" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000000000005078" />
+      <entry key="S10" value="1.0000015310984942" />
+      <entry key="S30" value="1.036714647146056" />
+      <entry key="S60" value="1.4744719190989315" />
+      <entry key="M2" value="2.887676297557367" />
+      <entry key="M5" value="7.433934625052726" />
+      <entry key="M10" value="14.794084729118346" />
+      <entry key="M15" value="20.7656623214154" />
+      <entry key="M30" value="31.764035472276447" />
+      <entry key="H1" value="41.09116936532699" />
+      <entry key="H2" value="47.98425637987179" />
+      <entry key="H4" value="54.35159177261098" />
+      <entry key="D1" value="217.30738714198728" />
+      <entry key="W1" value="661.0973709032804" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="5.588360653933796E-307" />
-      <entry key="S5" value="3.154378256979705E-123" />
-      <entry key="S10" value="5.616385187092941E-62" />
-      <entry key="S30" value="3.8295901292472966E-21" />
-      <entry key="S60" value="6.188368249223557E-11" />
-      <entry key="M2" value="7.86710686803992E-6" />
-      <entry key="M5" value="0.009273421365143286" />
-      <entry key="M10" value="0.10904825868930534" />
-      <entry key="M15" value="0.26600950552331765" />
-      <entry key="M30" value="0.696271117034097" />
-      <entry key="H1" value="1.165300423875699" />
-      <entry key="H2" value="1.5535786802513434" />
-      <entry key="H4" value="2.7065638952086957" />
-      <entry key="D1" value="34.036101262953345" />
-      <entry key="W1" value="101.56717557117055" />
+      <entry key="MS500" value="2.93300200650226E-106" />
+      <entry key="S2" value="4.13835842540859E-27" />
+      <entry key="S5" value="2.799935949958026E-11" />
+      <entry key="S10" value="5.4528010149125825E-6" />
+      <entry key="S30" value="0.022904168899741863" />
+      <entry key="S60" value="0.21015362158901033" />
+      <entry key="M2" value="0.7379544552373316" />
+      <entry key="M5" value="2.145535670793387" />
+      <entry key="M10" value="3.854755977978222" />
+      <entry key="M15" value="5.148790060342674" />
+      <entry key="M30" value="7.607981882951091" />
+      <entry key="H1" value="9.944358824215794" />
+      <entry key="H2" value="12.122326342357287" />
+      <entry key="H4" value="14.274625786210757" />
+      <entry key="D1" value="40.06193246709489" />
+      <entry key="W1" value="120.1221466706684" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9397702979151324" />
-      <entry key="MS500" value="1.1775914684957751" />
-      <entry key="S2" value="1.6582210392620482" />
-      <entry key="S5" value="1.9458087550782417" />
-      <entry key="S10" value="2.3706210234826575" />
-      <entry key="S30" value="3.7185841990596686" />
-      <entry key="S60" value="5.459186560702866" />
-      <entry key="M2" value="7.461364046395915" />
-      <entry key="M5" value="9.950844754678489" />
-      <entry key="M10" value="12.812579552702699" />
-      <entry key="M15" value="15.554934721342322" />
-      <entry key="M30" value="21.87851010949007" />
-      <entry key="H1" value="28.539207346780348" />
-      <entry key="H2" value="34.49571521968971" />
-      <entry key="H4" value="48.28095023628468" />
-      <entry key="D1" value="299.71166202134225" />
-      <entry key="W1" value="718.433498974779" />
+      <entry key="MS100" value="0.7169776240079136" />
+      <entry key="MS500" value="0.9356234978314001" />
+      <entry key="S2" value="0.9835020740262483" />
+      <entry key="S5" value="0.9933678773399389" />
+      <entry key="S10" value="0.9966847196332069" />
+      <entry key="S30" value="1.0563002415344647" />
+      <entry key="S60" value="1.6710148817457533" />
+      <entry key="M2" value="3.599883828693206" />
+      <entry key="M5" value="9.541904482184192" />
+      <entry key="M10" value="18.608394822260003" />
+      <entry key="M15" value="25.876915847267032" />
+      <entry key="M30" value="39.344392191259686" />
+      <entry key="H1" value="51.01823786862297" />
+      <entry key="H2" value="60.096711182918604" />
+      <entry key="H4" value="68.62079902036011" />
+      <entry key="D1" value="257.3675059210207" />
+      <entry key="W1" value="781.2188260806204" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -146,6 +130,7 @@
     "Python.async_2.executor": "Run",
     "Python.async_logging.executor": "Run",
     "Python.checkboxes.executor": "Run",
+    "Python.chrome_download.executor": "Run",
     "Python.concurr1.executor": "Debug",
     "Python.concurr2.executor": "Run",
     "Python.concurrent.executor": "Run",
@@ -155,9 +140,12 @@
     "Python.double_click.executor": "Run",
     "Python.dropdowns.executor": "Run",
     "Python.explicit_wait.executor": "Run",
+    "Python.hover.executor": "Run",
+    "Python.keyboard_action.executor": "Run",
     "Python.links.executor": "Run",
     "Python.loactors.executor": "Run",
     "Python.navigational_cmd.executor": "Run",
+    "Python.pratice.executor": "Run",
     "Python.right_click.executor": "Run",
     "Python.thread.executor": "Run",
     "Python.thread1.executor": "Run",
@@ -172,7 +160,6 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "selenium",
     "ignore.virus.scanning.warn.message": "true",
