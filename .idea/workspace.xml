@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6548369f-52b2-4054-b970-a915652fdf8f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/1.first_test_case.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.selectors.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Unserved-sleep&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Unserved-sleep/GoDigit_ML.git&quot;,
+    &quot;accountId&quot;: &quot;38089b48-f616-423b-bdc0-fc15a23259b1&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/numpy_pratice.ipynb" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000701113340489" />
+      <entry key="MS500" value="1.1604748650023236" />
+      <entry key="S2" value="1.9565455355167352" />
+      <entry key="S5" value="2.4728608180283294" />
+      <entry key="S10" value="2.71348070192254" />
+      <entry key="S30" value="3.1483924061996227" />
+      <entry key="S60" value="4.381373884746441" />
+      <entry key="M2" value="7.764699431028132" />
+      <entry key="M5" value="19.080509298094324" />
+      <entry key="M10" value="35.89712934105956" />
+      <entry key="M15" value="51.80193468705886" />
+      <entry key="M30" value="87.67764427153821" />
+      <entry key="H1" value="122.62485567971787" />
+      <entry key="H2" value="147.73509234875985" />
+      <entry key="H4" value="164.21033511869476" />
+      <entry key="D1" value="294.8985732861716" />
+      <entry key="W1" value="785.375571415012" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="2.088559906476186E-132" />
+      <entry key="S5" value="2.1278399102087437E-53" />
+      <entry key="S10" value="4.618294460270943E-27" />
+      <entry key="S30" value="2.100243916184564E-9" />
+      <entry key="S60" value="8.247296951496135E-5" />
+      <entry key="M2" value="0.01965653047870235" />
+      <entry key="M5" value="0.683073600957314" />
+      <entry key="M10" value="2.857847568114383" />
+      <entry key="M15" value="4.960163154108116" />
+      <entry key="M30" value="9.116342972039188" />
+      <entry key="H1" value="12.684919703583985" />
+      <entry key="H2" value="15.080053224986898" />
+      <entry key="H4" value="16.824902080172887" />
+      <entry key="D1" value="39.47080344487223" />
+      <entry key="W1" value="128.03794517442142" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.876670685632288" />
+      <entry key="MS500" value="1.1319805907843592" />
+      <entry key="S2" value="1.9458779092447291" />
+      <entry key="S5" value="2.4676279177531115" />
+      <entry key="S10" value="2.710629877540789" />
+      <entry key="S30" value="3.144773872797939" />
+      <entry key="S60" value="4.373088173885455" />
+      <entry key="M2" value="7.773512466505992" />
+      <entry key="M5" value="19.747319952191084" />
+      <entry key="M10" value="38.732394356407006" />
+      <entry key="M15" value="56.73804528182267" />
+      <entry key="M30" value="96.77305559427487" />
+      <entry key="H1" value="135.29545830448288" />
+      <entry key="H2" value="162.8066856173223" />
+      <entry key="H4" value="181.0304944489092" />
+      <entry key="D1" value="334.36756741087754" />
+      <entry key="W1" value="913.4127635545797" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3DTT6mKaHYmDgtBSimJjl0LjVJx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests in pytest_start.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_exceptions.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_fixtures.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_parameterize.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FirstTestCase.executor&quot;: &quot;Run&quot;,
+    &quot;Python.action_chains.executor&quot;: &quot;Run&quot;,
+    &quot;Python.alerts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.application_cmd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.async.executor&quot;: &quot;Run&quot;,
+    &quot;Python.async_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.async_logging.executor&quot;: &quot;Run&quot;,
+    &quot;Python.checkboxes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.chrome_download.executor&quot;: &quot;Run&quot;,
+    &quot;Python.concurr1.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.concurr2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.concurrent.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conditional_cmd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.customizedLocators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.date_picker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.double_click.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dropdowns.executor&quot;: &quot;Run&quot;,
+    &quot;Python.explicit_wait.executor&quot;: &quot;Run&quot;,
+    &quot;Python.first_test_case.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hover.executor&quot;: &quot;Run&quot;,
+    &quot;Python.keyboard_action.executor&quot;: &quot;Run&quot;,
+    &quot;Python.links.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loactors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.login.executor&quot;: &quot;Run&quot;,
+    &quot;Python.navigational_cmd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pratice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.right_click.executor&quot;: &quot;Run&quot;,
+    &quot;Python.thread.executor&quot;: &quot;Run&quot;,
+    &quot;Python.thread1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.thread2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.thread_2w.executor&quot;: &quot;Run&quot;,
+    &quot;Python.thread_locks.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.waits.executor&quot;: &quot;Run&quot;,
+    &quot;Python.xpath.executor&quot;: &quot;Run&quot;,
+    &quot;Python.xpath_axes.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;playwright&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\GoDigit_ML\threads" />
+      <recent name="E:\GoDigit_ML\concurr_programming" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6548369f-52b2-4054-b970-a915652fdf8f" name="Changes" comment="" />
+      <created>1778304891311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778304891311</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
