@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6548369f-52b2-4054-b970-a915652fdf8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/chrome_download.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pdf_download.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pratice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/keyboard_action.py" beforeDir="false" afterPath="$PROJECT_DIR$/keyboard_action.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,58 +48,58 @@
       <entry key="MS100" value="1.0" />
       <entry key="MS500" value="1.0" />
       <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0000000000005078" />
-      <entry key="S10" value="1.0000015310984942" />
-      <entry key="S30" value="1.036714647146056" />
-      <entry key="S60" value="1.4744719190989315" />
-      <entry key="M2" value="2.887676297557367" />
-      <entry key="M5" value="7.433934625052726" />
-      <entry key="M10" value="14.794084729118346" />
-      <entry key="M15" value="20.7656623214154" />
-      <entry key="M30" value="31.764035472276447" />
-      <entry key="H1" value="41.09116936532699" />
-      <entry key="H2" value="47.98425637987179" />
-      <entry key="H4" value="54.35159177261098" />
-      <entry key="D1" value="217.30738714198728" />
-      <entry key="W1" value="661.0973709032804" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.000000116927881" />
+      <entry key="S60" value="1.0004692104859367" />
+      <entry key="M2" value="1.03700112113344" />
+      <entry key="M5" value="1.8825456546487727" />
+      <entry key="M10" value="4.985767580056461" />
+      <entry key="M15" value="9.50231519262122" />
+      <entry key="M30" value="25.88002802238065" />
+      <entry key="H1" value="51.68681435201781" />
+      <entry key="H2" value="77.6500567662687" />
+      <entry key="H4" value="98.47206450869353" />
+      <entry key="D1" value="272.05843922474224" />
+      <entry key="W1" value="722.0543773355031" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="2.93300200650226E-106" />
-      <entry key="S2" value="4.13835842540859E-27" />
-      <entry key="S5" value="2.799935949958026E-11" />
-      <entry key="S10" value="5.4528010149125825E-6" />
-      <entry key="S30" value="0.022904168899741863" />
-      <entry key="S60" value="0.21015362158901033" />
-      <entry key="M2" value="0.7379544552373316" />
-      <entry key="M5" value="2.145535670793387" />
-      <entry key="M10" value="3.854755977978222" />
-      <entry key="M15" value="5.148790060342674" />
-      <entry key="M30" value="7.607981882951091" />
-      <entry key="H1" value="9.944358824215794" />
-      <entry key="H2" value="12.122326342357287" />
-      <entry key="H4" value="14.274625786210757" />
-      <entry key="D1" value="40.06193246709489" />
-      <entry key="W1" value="120.1221466706684" />
+      <entry key="MS500" value="2.417159751017794E-93" />
+      <entry key="S2" value="7.011748633134445E-24" />
+      <entry key="S5" value="5.474346214519906E-10" />
+      <entry key="S10" value="2.3443900040218647E-5" />
+      <entry key="S30" value="0.03220069448013644" />
+      <entry key="S60" value="0.2291214586788461" />
+      <entry key="M2" value="0.6620786222430698" />
+      <entry key="M5" value="1.6709038453810725" />
+      <entry key="M10" value="3.8709641152567134" />
+      <entry key="M15" value="6.452056390161209" />
+      <entry key="M30" value="13.639287745747867" />
+      <entry key="H1" value="22.92722222706805" />
+      <entry key="H2" value="31.658014539105533" />
+      <entry key="H4" value="38.53839701899935" />
+      <entry key="D1" value="68.82491182947498" />
+      <entry key="W1" value="150.3367562518439" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.7169776240079136" />
-      <entry key="MS500" value="0.9356234978314001" />
-      <entry key="S2" value="0.9835020740262483" />
-      <entry key="S5" value="0.9933678773399389" />
-      <entry key="S10" value="0.9966847196332069" />
-      <entry key="S30" value="1.0563002415344647" />
-      <entry key="S60" value="1.6710148817457533" />
-      <entry key="M2" value="3.599883828693206" />
-      <entry key="M5" value="9.541904482184192" />
-      <entry key="M10" value="18.608394822260003" />
-      <entry key="M15" value="25.876915847267032" />
-      <entry key="M30" value="39.344392191259686" />
-      <entry key="H1" value="51.01823786862297" />
-      <entry key="H2" value="60.096711182918604" />
-      <entry key="H4" value="68.62079902036011" />
-      <entry key="D1" value="257.3675059210207" />
-      <entry key="W1" value="781.2188260806204" />
+      <entry key="MS100" value="0.6736167884328451" />
+      <entry key="MS500" value="0.9240225724468234" />
+      <entry key="S2" value="0.9804391507833422" />
+      <entry key="S5" value="0.9921292602946277" />
+      <entry key="S10" value="0.9960765392202202" />
+      <entry key="S30" value="1.029163627469834" />
+      <entry key="S60" value="1.2232200184412572" />
+      <entry key="M2" value="1.690654557219014" />
+      <entry key="M5" value="3.5429300652975524" />
+      <entry key="M10" value="8.842072665108807" />
+      <entry key="M15" value="15.936190128581076" />
+      <entry key="M30" value="39.49599669346724" />
+      <entry key="H1" value="74.59172935428401" />
+      <entry key="H2" value="109.2917306040178" />
+      <entry key="H4" value="137.00032367827177" />
+      <entry key="D1" value="340.8805067294807" />
+      <entry key="W1" value="872.3902853615314" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -114,63 +111,65 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python tests.Python tests in pytest_start.py.executor": "Run",
-    "Python tests.Python tests in test_exceptions.py.executor": "Run",
-    "Python tests.Python tests in test_fixtures.py.executor": "Run",
-    "Python tests.Python tests in test_parameterize.py.executor": "Run",
-    "Python.FirstTestCase.executor": "Run",
-    "Python.action_chains.executor": "Run",
-    "Python.alerts.executor": "Run",
-    "Python.application_cmd.executor": "Run",
-    "Python.async.executor": "Run",
-    "Python.async_2.executor": "Run",
-    "Python.async_logging.executor": "Run",
-    "Python.checkboxes.executor": "Run",
-    "Python.chrome_download.executor": "Run",
-    "Python.concurr1.executor": "Debug",
-    "Python.concurr2.executor": "Run",
-    "Python.concurrent.executor": "Run",
-    "Python.conditional_cmd.executor": "Run",
-    "Python.customizedLocators.executor": "Run",
-    "Python.date_picker.executor": "Run",
-    "Python.double_click.executor": "Run",
-    "Python.dropdowns.executor": "Run",
-    "Python.explicit_wait.executor": "Run",
-    "Python.hover.executor": "Run",
-    "Python.keyboard_action.executor": "Run",
-    "Python.links.executor": "Run",
-    "Python.loactors.executor": "Run",
-    "Python.navigational_cmd.executor": "Run",
-    "Python.pratice.executor": "Run",
-    "Python.right_click.executor": "Run",
-    "Python.thread.executor": "Run",
-    "Python.thread1.executor": "Run",
-    "Python.thread2.executor": "Run",
-    "Python.thread_2w.executor": "Run",
-    "Python.thread_locks.executor": "Debug",
-    "Python.waits.executor": "Run",
-    "Python.xpath.executor": "Run",
-    "Python.xpath_axes.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "selenium",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests in pytest_start.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_exceptions.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_fixtures.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_parameterize.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FirstTestCase.executor&quot;: &quot;Run&quot;,
+    &quot;Python.action_chains.executor&quot;: &quot;Run&quot;,
+    &quot;Python.alerts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.application_cmd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.async.executor&quot;: &quot;Run&quot;,
+    &quot;Python.async_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.async_logging.executor&quot;: &quot;Run&quot;,
+    &quot;Python.checkboxes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.chrome_download.executor&quot;: &quot;Run&quot;,
+    &quot;Python.concurr1.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.concurr2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.concurrent.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conditional_cmd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.customizedLocators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.date_picker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.double_click.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dropdowns.executor&quot;: &quot;Run&quot;,
+    &quot;Python.explicit_wait.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hover.executor&quot;: &quot;Run&quot;,
+    &quot;Python.keyboard_action.executor&quot;: &quot;Run&quot;,
+    &quot;Python.links.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loactors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.navigational_cmd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prac2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pratice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.random.executor&quot;: &quot;Run&quot;,
+    &quot;Python.right_click.executor&quot;: &quot;Run&quot;,
+    &quot;Python.thread.executor&quot;: &quot;Run&quot;,
+    &quot;Python.thread1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.thread2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.thread_2w.executor&quot;: &quot;Run&quot;,
+    &quot;Python.thread_locks.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.waits.executor&quot;: &quot;Run&quot;,
+    &quot;Python.xpath.executor&quot;: &quot;Run&quot;,
+    &quot;Python.xpath_axes.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;selenium&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\GoDigit_ML\threads" />
