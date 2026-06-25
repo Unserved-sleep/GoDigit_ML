@@ -4,7 +4,7 @@ from pages.login_page import LoginPage
 def test_inventory_page(page):
     login = LoginPage(page)
     login.open_login_page()
-    login.login()
+    login.login("standard_user", "secret_sauce")
     inv = InventoryPage(page)
 
     assert inv.item_count() == 6

@@ -6,7 +6,7 @@ from pages.checkout_page import CheckoutPage
 def test_cart_page(page):
     login = LoginPage(page)
     login.open_login_page()
-    login.login()
+    login.login("standard_user", "secret_sauce")
     inv = InventoryPage(page)
 
     inv.add_to_cart("Sauce Labs Bike Light")
