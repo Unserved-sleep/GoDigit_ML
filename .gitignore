@@ -205,3 +205,52 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# DataSpell / JetBrains (project-level IDE files)
+.idea/
+
+# Jupyter / IPython notebooks checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ML model artifacts & large binaries
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.onnx
+*.bin
+*.safetensors
+
+# ML experiment tracking
+mlruns/
+wandb/
+lightning_logs/
+runs/
+
+# Data files (add exceptions below if needed)
+data/
+datasets/
+*.csv
+*.parquet
+*.feather
+*.arrow
+*.json
+*.jsonl
+*.xlsx
+*.xls
+*.tsv
+
+# Output / results
+outputs/
+results/
+checkpoints/
+logs/
+
+# OS-specific
+Thumbs.db
+.DS_Store
+desktop.ini
