@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf12e6b9-dfdf-4b68-93a0-1b82244e9332" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Word2Vec_LargerCorpus.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Word2Vec_LargerCorpus.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotChats">
+    <option name="panelChat">
+      <chat>
+        <option name="activeSessionId" value="f96b4f6e-ff20-4a19-88a7-56b74141171c" />
+        <option name="sessions">
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="f96b4f6e-ff20-4a19-88a7-56b74141171c" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+        </option>
+        <option name="type" value="PANEL" />
+      </chat>
+    </option>
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/Admin/DataspellProjects/GoDigit_ML" value="3Dc53uFRX3ntEl1f5OkbtAUvQsb" />
+    </persistenceIdMap>
+  </component>
+  <component name="DataSuggestionNotificationService">
+    <option name="lastNotificationTime" value="2026-07-01T04:32:49.249659100Z" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="729" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Unserved-sleep&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="nlp" />
+                    <option name="lastUsedInstant" value="1783674999" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="dev" />
+                    <option name="lastUsedInstant" value="1783674978" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="deep_learning" />
+                    <option name="lastUsedInstant" value="1783596048" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="machine_learning" />
+                    <option name="lastUsedInstant" value="1782819738" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="concurrency" />
+                    <option name="lastUsedInstant" value="1780570552" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Unserved-sleep/GoDigit_ML.git&quot;,
+    &quot;accountId&quot;: &quot;60401a14-f680-4a76-9c72-d2a7c85671c6&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.087659781160939" />
+      <entry key="MS500" value="2.399851182818083" />
+      <entry key="S2" value="6.675444210981427" />
+      <entry key="S5" value="13.047046047351062" />
+      <entry key="S10" value="18.58566729013161" />
+      <entry key="S30" value="24.733068024355507" />
+      <entry key="S60" value="26.74449872411787" />
+      <entry key="M2" value="27.83970781908717" />
+      <entry key="M5" value="28.597096551216698" />
+      <entry key="M10" value="30.97793588195543" />
+      <entry key="M15" value="36.427995236885856" />
+      <entry key="M30" value="55.71010210425326" />
+      <entry key="H1" value="79.79434988492854" />
+      <entry key="H2" value="99.22780060534653" />
+      <entry key="H4" value="116.16055168147572" />
+      <entry key="D1" value="470.00808497929677" />
+      <entry key="W1" value="1024.3393045507055" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="4.4634636051621255E-229" />
+      <entry key="M5" value="8.822367667351919E-92" />
+      <entry key="M10" value="5.1443187252127066E-46" />
+      <entry key="M15" value="9.281240228139419E-31" />
+      <entry key="M30" value="1.7343636339872079E-15" />
+      <entry key="H1" value="8.235476905253642E-8" />
+      <entry key="H2" value="6.143393007561855E-4" />
+      <entry key="H4" value="0.057421433436313916" />
+      <entry key="D1" value="4.242726972935096" />
+      <entry key="W1" value="10.295000068743278" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8165674164783125" />
+      <entry key="MS500" value="2.306963042126575" />
+      <entry key="S2" value="6.628426481302452" />
+      <entry key="S5" value="13.014323798589722" />
+      <entry key="S10" value="18.562873623861265" />
+      <entry key="S30" value="24.722967731827396" />
+      <entry key="S60" value="26.739027465947466" />
+      <entry key="M2" value="27.83685646167488" />
+      <entry key="M5" value="28.59592450323444" />
+      <entry key="M10" value="30.977299705801066" />
+      <entry key="M15" value="36.4274886553562" />
+      <entry key="M30" value="55.70969648061631" />
+      <entry key="H1" value="79.79404972477535" />
+      <entry key="H2" value="99.22822494607098" />
+      <entry key="H4" value="116.21785311188222" />
+      <entry key="D1" value="474.250627596794" />
+      <entry key="W1" value="1034.6342438141983" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Dc53uFRX3ntEl1f5OkbtAUvQsb" />
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "nlp",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Admin/DataspellProjects/GoDigit_ML",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\DataspellProjects\GoDigit_ML" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\DataspellProjects\GoDigit_ML" />
+      <recent name="C:\Users\Admin\DataspellProjects\GoDigit_ML\fast-api" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="GoDigit_ML" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="untitled" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-1985701721fb-7604a7d53f56-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-261.25134.18" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf12e6b9-dfdf-4b68-93a0-1b82244e9332" name="Changes" comment="" />
+      <created>1778568322495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778568322495</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
