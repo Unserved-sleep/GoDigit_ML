@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf12e6b9-dfdf-4b68-93a0-1b82244e9332" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Word2Vec_LargerCorpus.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Word2Vec_LargerCorpus.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,23 +107,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.087659781160939" />
-      <entry key="MS500" value="2.399851182818083" />
-      <entry key="S2" value="6.675444210981427" />
-      <entry key="S5" value="13.047046047351062" />
-      <entry key="S10" value="18.58566729013161" />
-      <entry key="S30" value="24.733068024355507" />
-      <entry key="S60" value="26.74449872411787" />
-      <entry key="M2" value="27.83970781908717" />
-      <entry key="M5" value="28.597096551216698" />
-      <entry key="M10" value="30.97793588195543" />
-      <entry key="M15" value="36.427995236885856" />
-      <entry key="M30" value="55.71010210425326" />
-      <entry key="H1" value="79.79434988492854" />
-      <entry key="H2" value="99.22780060534653" />
-      <entry key="H4" value="116.16055168147572" />
-      <entry key="D1" value="470.00808497929677" />
-      <entry key="W1" value="1024.3393045507055" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0" />
+      <entry key="M2" value="1.0" />
+      <entry key="M5" value="1.0" />
+      <entry key="M10" value="1.0" />
+      <entry key="M15" value="1.0" />
+      <entry key="M30" value="1.0" />
+      <entry key="H1" value="1.0000000000193625" />
+      <entry key="H2" value="1.0000243838124638" />
+      <entry key="H4" value="1.055738594812885" />
+      <entry key="D1" value="132.61130477897578" />
+      <entry key="W1" value="859.0014701826179" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -133,35 +133,35 @@
       <entry key="S10" value="0.0" />
       <entry key="S30" value="0.0" />
       <entry key="S60" value="0.0" />
-      <entry key="M2" value="4.4634636051621255E-229" />
-      <entry key="M5" value="8.822367667351919E-92" />
-      <entry key="M10" value="5.1443187252127066E-46" />
-      <entry key="M15" value="9.281240228139419E-31" />
-      <entry key="M30" value="1.7343636339872079E-15" />
-      <entry key="H1" value="8.235476905253642E-8" />
-      <entry key="H2" value="6.143393007561855E-4" />
-      <entry key="H4" value="0.057421433436313916" />
-      <entry key="D1" value="4.242726972935096" />
-      <entry key="W1" value="10.295000068743278" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="6.404721456970495E-253" />
+      <entry key="M10" value="1.3860708026268746E-126" />
+      <entry key="M15" value="1.797122624910019E-84" />
+      <entry key="M30" value="2.4133816579890872E-42" />
+      <entry key="H1" value="3.0720740381315982E-21" />
+      <entry key="H2" value="1.1865328359333876E-10" />
+      <entry key="H4" value="2.5235374891459877E-5" />
+      <entry key="D1" value="1.169861297786213" />
+      <entry key="W1" value="8.564386381388791" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8165674164783125" />
-      <entry key="MS500" value="2.306963042126575" />
-      <entry key="S2" value="6.628426481302452" />
-      <entry key="S5" value="13.014323798589722" />
-      <entry key="S10" value="18.562873623861265" />
-      <entry key="S30" value="24.722967731827396" />
-      <entry key="S60" value="26.739027465947466" />
-      <entry key="M2" value="27.83685646167488" />
-      <entry key="M5" value="28.59592450323444" />
-      <entry key="M10" value="30.977299705801066" />
-      <entry key="M15" value="36.4274886553562" />
-      <entry key="M30" value="55.70969648061631" />
-      <entry key="H1" value="79.79404972477535" />
-      <entry key="H2" value="99.22822494607098" />
-      <entry key="H4" value="116.21785311188222" />
-      <entry key="D1" value="474.250627596794" />
-      <entry key="W1" value="1034.6342438141983" />
+      <entry key="MS100" value="0.5864174746159394" />
+      <entry key="MS500" value="0.8987551266110297" />
+      <entry key="S2" value="0.9736667628755977" />
+      <entry key="S5" value="0.9893823033619269" />
+      <entry key="S10" value="0.9946769844336034" />
+      <entry key="S30" value="0.9982225038573258" />
+      <entry key="S60" value="0.9991108566407062" />
+      <entry key="M2" value="0.9995553294544061" />
+      <entry key="M5" value="0.9998221080483063" />
+      <entry key="M10" value="0.999911050068108" />
+      <entry key="M15" value="0.9999406991662494" />
+      <entry key="M30" value="0.999970349143538" />
+      <entry key="H1" value="0.9999851744812331" />
+      <entry key="H2" value="1.0000169710851556" />
+      <entry key="H4" value="1.0557600635375872" />
+      <entry key="D1" value="133.7811139944905" />
+      <entry key="W1" value="867.5658056252045" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -200,7 +200,7 @@
     "git-widget-placeholder": "nlp",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Admin/DataspellProjects/GoDigit_ML",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -208,6 +208,7 @@
       <recent name="C:\Users\Admin\DataspellProjects\GoDigit_ML" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\DataspellProjects\GoDigit_ML\.clinerules" />
       <recent name="C:\Users\Admin\DataspellProjects\GoDigit_ML" />
       <recent name="C:\Users\Admin\DataspellProjects\GoDigit_ML\fast-api" />
     </key>
